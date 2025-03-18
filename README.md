@@ -28,7 +28,3 @@
 <p align="left"></p>
 
 ###
-
-<img src="https://raw.githubusercontent.com/JoaoEduardo882/JoaoEduardo882/output/snake.svg" alt="Snake animation" />
-
-###
