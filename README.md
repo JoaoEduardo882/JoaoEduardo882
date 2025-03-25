@@ -23,12 +23,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoEduardo882&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-<p align="left"></p>
-
-###
-
-<img src="https://raw.githubusercontent.com/JoaoEduardo882/JoaoEduardo882/output/snake.svg" alt="Snake animation" />
-
-###
-
 
