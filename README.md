@@ -7,7 +7,7 @@
 
 ###
 
-<h1 align="center">😎Olá sou o João Eduardo!😎</h1>
+<h1 align="center">Olá sou o João Eduardo!</h1>
 
 ###
 
@@ -100,8 +100,4 @@
 <br/>
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoEduardo882&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoEduardo882&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
-</div>
 
