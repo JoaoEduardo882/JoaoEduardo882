@@ -100,5 +100,15 @@
 <br/>
 <br/>
 
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoaoEduardo882/JoaoEduardo882/stats-output/stats.svg" height="250" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/JoaoEduardo882/JoaoEduardo882/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoaoEduardo882&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
 
 
